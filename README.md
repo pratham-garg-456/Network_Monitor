@@ -1,8 +1,8 @@
-# UNX511 - Assignment 2: A Network Monitor
+# A Network Monitor
 
 ## Overview
 
-This assignment implements a **Network Monitor** system for Linux, capable of monitoring and controlling multiple network interfaces. The monitor gathers a wide range of statistics for each interface and ensures that interfaces stay operational, restarting them if they go down. It is designed with scalability and modularity in mind, using inter-process communication between a central controller (**Network Monitor**) and per-interface monitoring processes (**Interface Monitors**).
+This project implements a **Network Monitor** system for Linux, capable of monitoring and controlling multiple network interfaces. The monitor gathers a wide range of statistics for each interface and ensures that interfaces stay operational, restarting them if they go down. It is designed with scalability and modularity in mind, using inter-process communication between a central controller (**Network Monitor**) and per-interface monitoring processes (**Interface Monitors**).
 
 ---
 
