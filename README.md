@@ -6,6 +6,14 @@ This project implements a **Network Monitor** system for Linux, capable of monit
 
 ---
 
+# Demo
+
+
+
+https://github.com/user-attachments/assets/13e4c4be-581c-4436-8846-5e4a4ba40247
+
+
+
 ## Features & Main Components
 
 ### 1. Network Monitor (Central Controller)
